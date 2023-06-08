@@ -1,0 +1,2 @@
+D:\Visual Studio 2022\Project8\x64\Debug\Ahmads Sudoko.exe
+D:\Visual Studio 2022\Ahmad's Sudoko\x64\Debug\Ahmads Sudoko.exe
